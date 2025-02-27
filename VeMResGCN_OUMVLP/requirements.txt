@@ -1,0 +1,12 @@
+torch-scatter
+torch-sparse @ https://data.pyg.org/whl/torch-1.10.0+cu102.html
+imageio==2.23.0
+tqdm==4.64.1
+torch-geometric==2.0.3
+pytorch-metric-learning==1.6.3
+pytorch-lightning==1.8.6
+pandas
+torch==1.12.0
+torchvision==0.13.0
+torchaudio==0.12.0
+cudatoolkit==11.3
