@@ -72,7 +72,7 @@ RANK-1 Accuracy (%) per probe angle excluding identical-view cases for the provi
 | BG#1-2 | 78.3 | 82.6 | 84.4 | 86.9 | 78.8 | 83.0 |  82.8   |  77.5 |  78.4 |  80.7 |  73.7 |   80.7 |
 | CL#1-2 | 72.7 | 70.6 | 76.9 | 77.5 | 74.1 | 72.0   |  75.5 |  71.2 |  73.2 |  74.6 |  68.8 |   73.4 |
 
-The pre-trained model is available [here](google drive link).
+<!-- The pre-trained model is available [here](google drive link). -->
 
 
 ### OUMVLP-Pose
@@ -84,7 +84,7 @@ RANK-1 Accuracy (%) per probe angle excluding identical-view cases for the provi
 | AlphaPose | 62.7 | 75.0 | 78.1   | 79.7 | 78.8 | 76.4 |  72.0 |  56.5 |  64.6 |  59.6 |  76.1 |   74.4 |   72.3 |   67.3 |   71.0 |
 
 
-The pre-trained model is available [here](google drive link).
+<!-- The pre-trained model is available [here](google drive link). -->
 
 
 
